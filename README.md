@@ -69,3 +69,7 @@ gate is adapted from Mr_Buzzoni's
 [Loop Engineering Meets Jev Engineering](https://x.com/polydao/article/2103689373774483815).
 The agent and command prompts follow those articles. Every change from the originals, and its
 reason, is listed in [.aidocs/adaptations.md](.aidocs/adaptations.md).
+
+## License
+
+[MIT](LICENSE)
